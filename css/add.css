@@ -6,13 +6,25 @@
     padding: 20px;
     margin: 90px;
     /* gap: 20px; */
-    border: 1px solid;
+    border: 0px solid;
+    box-shadow: rgb(197, 195, 195, 0.4) 0px 4px 10px;
 }
-li{
-   list-style: none;
-   margin-top: 30px; 
-   font-size: 20px;
+table {
+    /* gap: 0px; */
+    /* font-size: 30px; */
+    display: flex;
+    justify-content: center;
+    
 }
-button{
-    margin-top: 20px;
+input{
+    
+}
+td{
+    width: 200px;
+    padding: 10px;
+    font-size: 20px;
+    /* box-shadow: rgb(197, 195, 195, 0.4) 0px 4px 10px; */
+}
+tr{
+    
 }
